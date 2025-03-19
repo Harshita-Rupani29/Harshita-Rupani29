@@ -18,7 +18,7 @@ Hello! I'm Harshita Rupani, a passionate developer and technology enthusiast. I 
 ## 📈 Work Experience  
 - **Intern at Agra Smart City** – Worked on front-end, full-stack, and AI-based projects.  
 - **Intern at OctaNet Services Pvt Ltd** – Experience in CSS and Visual Studio Code.  
-- **Project Intern at DataFlair** – Worked on UI/UX, testing, problem-solving, and teamwork projects.  
+- **Project Intern at DataFlair** – Worked on UI/UX, testing, problem-solving.  
 
 ## 📚 Education  
 - 🎓 **BML Munjal University** – Studied various programming languages and development technologies.  
